@@ -63,16 +63,20 @@
                 <div class="card-body align-middle flex-column ">
                     <h5 class="card-title d-flex justify-content-center fs-2 pb-4 fw-semibold">Select country and language</h5>
                     <form class="form-floating">
-                        <select id="country" class="form-control form-select form-select-md mb-3 fw-medium d-flex justify-content-center">
-                            <option value="españa" selected>España</option>
-                        </select>
-                        <label for="country">Country*</label>
-                        <select id="language" class="form-control form-select form-select-md mb-5 fw-medium d-flex justify-content-center" placeholder="asd">
-                            <option value="asd" class="visually-hidden">Español</option>
-                        </select>
-                        <label for="language">Language*</label>
-                        <div class="form-check mb-5 my-color">
-                            <input class="form-check-input " type="checkbox" value="" id="flexCheckChecked" checked>
+                        <div class="form-group mb-3">
+                            <label for="country">Country*</label>
+                            <select id="country" class="form-control form-select fw-medium">
+                                <option value="españa" selected>España</option>
+                            </select>
+                        </div>
+                        <div class="form-group mb-5">
+                            <label for="language">Language*</label>
+                            <select id="language" class="form-control form-select fw-medium">
+                                <option value="asd">Español</option>
+                            </select>
+                        </div>                     
+                        <div class="form-check mb-5">
+                            <input class="form-check-input my-color" type="checkbox" value="" id="flexCheckChecked" checked>
                             <label class="form-check-label" for="flexCheckChecked">
                                 Save preferences
                             </label>
