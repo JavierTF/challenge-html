@@ -108,13 +108,13 @@
   </head>
   <body class="vertical-center container justify-content-center align-items-center" style="max-width: 100vw; background-color: black;">
     <div class="d-flex flex-column px-5" style="width: 73%; height: 100%; background-color: white; /*padding-left: 30px; padding-right: 30px;*/">
-        <div class="row py-2">
+        <div class="d-flex gap-2 grid" style="padding-top: 10px;">
             <div class="col-md-4 justify-content-start">
                 <div class="card w-100 full-width">
                     <img src="./originales/fantasma.png">
                     <div class="card-body" style="background-color: #F5F5F5;">
-                        <p class="card-title" style="font-size: 16px; font-weight: 600;">Project name</p>
-                        <p class="card-text" style="font-size: 9px; font-weight: 600;">Lorem ipsun dolor sit amet, consectetur adipiscing elit. Aenean euismod bidendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
+                        <p class="card-title" style="font-size: 16px; font-weight: 600; margin-bottom: 11px;">Project name</p>
+                        <p class="card-text lh-sm fw-medium" style="font-size: 10px;">Lorem ipsun dolor sit amet, consectetur adipiscing elit. Aenean euismod bidendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
                         <div class="d-flex" style="margin-top: -8px;">
                             <div class="azul-inverted circle" style="margin-right: 5px;">
                                 <span>></span>
@@ -128,8 +128,8 @@
                 <div class="card w-100 full-width">
                     <img src="./originales/microscopio.png">
                     <div class="card-body" style="background-color: #F5F5F5;">
-                        <p class="card-title" style="font-size: 16px; font-weight: 600;">Project name</p>
-                        <p class="card-text" style="font-size: 9px; font-weight: 600;">Lorem ipsun dolor sit amet, consectetur adipiscing elit. Aenean euismod bidendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
+                        <p class="card-title" style="font-size: 16px; font-weight: 600; margin-bottom: 11px;">Project name</p>
+                        <p class="card-text lh-sm fw-medium" style="font-size: 10px;">Lorem ipsun dolor sit amet, consectetur adipiscing elit. Aenean euismod bidendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
                         <div class="d-flex" style="margin-top: -8px;">
                             <div class="azul-inverted circle" style="margin-right: 5px;">
                                 <span>></span>
@@ -143,8 +143,8 @@
                 <div class="card w-100 full-width">
                     <img src="./originales/fantasma.png">
                     <div class="card-body" style="background-color: #F5F5F5;">
-                        <p class="card-title" style="font-size: 16px; font-weight: 600;">Project name</p>
-                        <p class="card-text" style="font-size: 9px; font-weight: 600;">Lorem ipsun dolor sit amet, consectetur adipiscing elit. Aenean euismod bidendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
+                        <p class="card-title" style="font-size: 16px; font-weight: 600; margin-bottom: 11px;">Project name</p>
+                        <p class="card-text lh-sm fw-medium" style="font-size: 10px;">Lorem ipsun dolor sit amet, consectetur adipiscing elit. Aenean euismod bidendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
                         <div class="d-flex" style="margin-top: -8px;">
                             <div class="azul-inverted circle" style="margin-right: 5px;">
                                 <span>></span>
@@ -155,13 +155,13 @@
                 </div>
             </div>    
         </div>
-        <div class="row py-2">
+        <div class="d-flex gap-2 grid" style="padding-top: 10px;">
             <div class="col-md-4 justify-content-start">
                 <div class="card w-100 full-width">
                     <img src="./originales/fantasma.png">
                     <div class="card-body" style="background-color: #F5F5F5;">
-                        <p class="card-title" style="font-size: 16px; font-weight: 600;">Project name</p>
-                        <p class="card-text" style="font-size: 9px; font-weight: 600;">Lorem ipsun dolor sit amet, consectetur adipiscing elit. Aenean euismod bidendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
+                        <p class="card-title" style="font-size: 16px; font-weight: 600; margin-bottom: 11px;">Project name</p>
+                        <p class="card-text lh-sm fw-medium" style="font-size: 10px;">Lorem ipsun dolor sit amet, consectetur adipiscing elit. Aenean euismod bidendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
                         <div class="d-flex" style="margin-top: -8px;">
                             <div class="azul-inverted circle" style="margin-right: 5px;">
                                 <span>></span>
@@ -175,8 +175,8 @@
                 <div class="card w-100 full-width">
                     <img src="./originales/microscopio.png">
                     <div class="card-body" style="background-color: #F5F5F5;">
-                        <p class="card-title" style="font-size: 16px; font-weight: 600;">Project name</p>
-                        <p class="card-text" style="font-size: 9px; font-weight: 600;">Lorem ipsun dolor sit amet, consectetur adipiscing elit. Aenean euismod bidendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
+                        <p class="card-title" style="font-size: 16px; font-weight: 600; margin-bottom: 11px;">Project name</p>
+                        <p class="card-text lh-sm fw-medium" style="font-size: 10px;">Lorem ipsun dolor sit amet, consectetur adipiscing elit. Aenean euismod bidendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.</p>
                         <div class="d-flex" style="margin-top: -8px;">
                             <div class="azul-inverted circle" style="margin-right: 5px;">
                                 <span>></span>
