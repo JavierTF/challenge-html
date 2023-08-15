@@ -80,11 +80,19 @@
             color: lightgray;
         }
         .circle {
-            width: 20px;
-            height: 20px;
+            width: 24px;
+            height: 24px;
             border-radius: 50%;
             background-color: #F5F5F5;
-            
+            margin-top: 3px;
+        }
+        .circle span {
+            /* padding-bottom: 10px; */
+            margin-left: 8px;
+            margin-top: 1px;
+            font-size: 12px;
+            font-weight: 900;
+            position: absolute;
         }
     </style>
   </head>
@@ -102,8 +110,19 @@
                     <p style="margin-bottom: 6px;">External, faces, cones, unround, contours, internal...</p>
                     <p style="margin-bottom: 6px;">If you need to grind multiple parts on a simgle machine, the LG has also elements to change references quickly: movable tailstock, automation systems, counter heads...</p>      
                 </div>
-                <div class="d-inline-flex" style="margin-top: 21px;">
-                    <span class="azul sub"><strong>1/4</strong></span><span class="gris sub" style="margin-left: 10px;"><strong>|</strong></span><div class="azul circle"><span style="padding-bottom: 20px; margin-left: 5px;">></span></div>
+                <div class="d-inline-flex" style="margin-top: 10px;">
+                    <div>
+                        <span class="azul sub"><strong>1/4</strong></span>
+                    </div>
+                    <div>
+                        <span class="gris sub" style="margin-left: 10px;"><strong>|</strong></span>
+                    </div>
+                    <div class="circle" style="margin-left: 12px;">
+                        <span style="color: gray;"><strong><</strong></span>
+                    </div>
+                    <div class="azul circle" style="margin-left: 6px;">
+                        <span>></span>
+                    </div>
                 </div>
             </div>
         </div>
